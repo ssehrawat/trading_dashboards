@@ -1,7 +1,7 @@
 # Pairs Trading and Multi-Variate Index Regression Dashboards
 Projects to implement Dash Apps for Pairs Trading and Index Regression interactive Dashboards. 
-- Pairs Trading dashboard lets the user select train/test periods, index, confidence level, rolling window size, Bollinger Band Standard Deviations, etc. to run and backtest pairs trading strategy. Results are displayed as tables and the user can select a table row to see the timeseries performance graphs of the pair.  
-- Multi-Variate Regression Dashboard lets the user select the index and its components to run multi-variate regression between them. Various types of regression: linear, Lasso, and Ridge are supported. The Dashboard also lets the user to see the index's top components which explains the index the best. Index explain is implemented using RandomForest feature importance.
+- **Pairs Trading dashboard** lets the user select train/test periods, index, confidence level, rolling window size, Bollinger Band Standard Deviations, etc. to run and backtest pairs trading strategy. Results are displayed as tables and the user can select a table row to see the timeseries performance graphs of the pair.  
+- **Multi-Variate Regression Dashboard** lets the user select the index and its components to run multi-variate regression between them. Various types of regression: linear, Lasso, and Ridge are supported. The Dashboard also lets the user to see the index's top components which explains the index the best. Index explain is implemented using RandomForest feature importance.
 
 ## Screenshots
 
